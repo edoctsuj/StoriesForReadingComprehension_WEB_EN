@@ -1,0 +1,8 @@
+# Install libraries
+langchain
+openai
+PyPDF2
+faiss-cpu
+tiktoken
+python-dotenv
+trafilatura
