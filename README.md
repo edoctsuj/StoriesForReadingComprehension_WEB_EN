@@ -4,7 +4,7 @@ Reading data from web page and answer questions according to web.
 
 ````
 pip install -r requirements.txt
-python app.py
+streamlit run app.py
 ````
 
 # Web Data EN
