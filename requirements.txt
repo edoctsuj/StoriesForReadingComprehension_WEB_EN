@@ -8,3 +8,4 @@ python-dotenv
 trafilatura
 streamlit
 streamlit_chat
+llama_index
