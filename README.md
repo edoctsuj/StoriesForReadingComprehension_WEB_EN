@@ -1,6 +1,6 @@
 # StoriesForReadingComprehension
 
-Reading data from pdf and answer questions according to pdf.
+Reading data from web page and answer questions according to web.
 
 ````
 pip install -r requirements.txt
