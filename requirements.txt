@@ -6,3 +6,5 @@ faiss-cpu
 tiktoken
 python-dotenv
 trafilatura
+streamlit
+streamlit_chat
