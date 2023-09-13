@@ -1,15 +1,15 @@
 # Import Classes from Libraries
 import logging
 import sys
+import streamlit as st
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.text_splitter import CharacterTextSplitter
 from langchain.vectorstores import FAISS
 from langchain.chains.question_answering import load_qa_chain
 from langchain.llms import OpenAI
 from dotenv import load_dotenv
-from llama_index import TrafilaturaWebReader
-import streamlit as st
 from streamlit_chat import message
+from llama_index import TrafilaturaWebReader
 
 
 # Load environment values
